@@ -1,7 +1,7 @@
 [PreviousGenFiles]
-HeaderPath=C:/Users/liewe/Desktop/producer-consumer-rtos/freeRTOS/Inc
+HeaderPath=D:/ChromeDownloads/RTOS-ProducerConsumer/freeRTOS/Inc
 HeaderFiles=stm32f1xx_it.h;stm32f1xx_hal_conf.h;main.h;FreeRTOSConfig.h;
-SourcePath=C:/Users/liewe/Desktop/producer-consumer-rtos/freeRTOS/Src
+SourcePath=D:/ChromeDownloads/RTOS-ProducerConsumer/freeRTOS/Src
 SourceFiles=stm32f1xx_it.h;stm32f1xx_hal_conf.h;main.h;stm32f1xx_it.c;stm32f1xx_hal_msp.c;main.c;FreeRTOSConfig.h;freertos.c;stm32f1xx_hal_timebase_TIM.c;
 
 [PreviousLibFiles]
